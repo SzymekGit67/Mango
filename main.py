@@ -7,7 +7,7 @@ import json
 class Parameters(BaseModel):
     apartments_json_path: str = 'data/apartments.json'
     tenants_json_path: str = 'data/tenants.json'
-    transfers_json_path: str = 'data/transfers.json'
+    bills_json_path: str='data/bills.json'
 
 
 class Room(BaseModel):
