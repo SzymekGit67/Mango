@@ -1,0 +1,14 @@
+{
+    "rachunek-1": {
+        "kwota": 670,
+        "data_platnosci": "2025-03-09",
+        "typ_rachunku" : "elektroniczny",
+        "mieszkanie": "apart-polanka"
+    },
+    "rachunek-2": {
+        "kwota": 670,
+        "data_platnosci": "2025-04-09",
+        "typ_rachunku" : "elektroniczny",
+        "mieszkanie": "apart-polanka"
+    }
+}
